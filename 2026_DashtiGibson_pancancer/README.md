@@ -1,4 +1,4 @@
-# Pan-cancer comparisons of multi-omics data for therapeutic selection
+# Cross-cancer comparisons of multi-omics data for therapeutic selection
 
 Nina Dashti-Gibson, Amy L. Olex, Katarzyna M. Tyc, Alexa M. Barber, Khoa L. A. Huynh, Oniya M. Smith, Bin Hu,
 Praveen Bhoopathi, Mohammad Mikail I. Bala, Carson J. Walker, Dhanvin R. Yajaman, Rachel K. Myrick, AJ Sallee,
@@ -86,5 +86,5 @@ Materials authored by other contributors, third-party software, and dependencies
 
 If you use these analyses in academic work, please cite:
 
-> "Pan-cancer comparisons of multi-omics data for therapeutic selection"
+> "Cross-cancer comparisons of multi-omics data for therapeutic selection"
 Nina Dashti-Gibson, Amy L. Olex, Katarzyna M. Tyc, Alexa M. Barber, Khoa L. A. Huynh, Oniya M. Smith, Bin Hu, Praveen Bhoopathi, Mohammad Mikail I. Bala, Carson J. Walker, Dhanvin R. Yajaman, Rachel K. Myrick, AJ Sallee, Nikitha Murugavel, Li Wang, Madhavi Puchalapalli, Anna E. Gibson, Grace R. Thompson, Vignesh Vudatha, Vashti L. Bandy, Arunima Punjala, Harry D. Bear, Valentina Robila, Kandace P. McGuire, Rachit D. Shah, Leopoldo J. Fernandez, Seung Duk Lee, Joaquin Reyna, Jinze Liu, Jennifer E. Koblinski, Mikhail G. Dozmorov, Nicholas T. Woods, Jose G. Trevino, J. Chuck Harrell
