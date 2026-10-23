@@ -1,5 +1,5 @@
 # Copyright (c) VCU 2026, CC BY-NC 4.0, Katarzyna M. Tyc.
-# If you use this code, please cite: Dashti-Gibson N., et al. Pan-cancer comparisons of multi-omics data for therapeutic selection.
+# If you use this code, please cite: Dashti-Gibson N., et al. Cross-cancer comparisons of multi-omics data for therapeutic selection.
 
 # Figure 2b-c: high-confidence somatic variant density and cancer-associated genes (CAGs) with somatic variants, per model.
 #
