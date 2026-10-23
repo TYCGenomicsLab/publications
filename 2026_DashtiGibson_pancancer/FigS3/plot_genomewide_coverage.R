@@ -1,5 +1,5 @@
 # Copyright (c) VCU 2026, CC BY-NC 4.0, Katarzyna M. Tyc.
-# If you use this code, please cite: Dashti-Gibson N., et al. Pan-cancer comparisons of multi-omics data for therapeutic selection.
+# If you use this code, please cite: Dashti-Gibson N., et al. Cross-cancer comparisons of multi-omics data for therapeutic selection.
 
 # Supplementary Figure S3: genome-wide read coverage of one sample in 1-Mb bins.
 # Usage: Rscript plot_genomewide_coverage.R <folder> <sample>_deeptools_rmDupl.bedgraph
