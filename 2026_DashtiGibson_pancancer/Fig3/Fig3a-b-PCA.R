@@ -1,5 +1,5 @@
 # Copyright (c) VCU 2026, CC BY-NC 4.0, Katarzyna M. Tyc.
-# If you use this code, please cite: Dashti-Gibson N., et al. Pan-cancer comparisons of multi-omics data for therapeutic selection.
+# If you use this code, please cite: Dashti-Gibson N., et al. Cross-cancer comparisons of multi-omics data for therapeutic selection.
 
 # Figure 3a-b: principal component analysis (PCA) of the VCU PDX models together with the 1000 Genomes Project (1KGP)
 # samples, PC1 vs PC2.
@@ -19,9 +19,8 @@ library(RColorBrewer)
 library(ggrepel)
 
 # Sequenced samples that are not part of the published cohort of 60 models.
-# (The figure in the paper was drawn with VCU-PC-094 also removed; add it here to reproduce it exactly.)
-EXCLUDE <- c("VCU-CO-078", "VCU-PC-070", "VCU-PC-095")
-
+EXCLUDE <- c("VCU-CO-078", "VCU-PC-070", "VCU-PC-095", "VCU-PC-067", "VCU-PC-133")
+ 
 # ---- Read PCA and sample labels -----------------------------------------------------------------------
 metadata <- read.table("20130606_g1k_3202_samples_ped_population.txt", header = TRUE, stringsAsFactors = FALSE)
 pca_data <- read.table("pruned_pca_results.eigenvec", header = FALSE, comment.char = "")
