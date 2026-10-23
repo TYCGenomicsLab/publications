@@ -10,7 +10,7 @@ Each paper has its own folder. For published papers, a corresponding GitHub rele
 
 | Year | Paper | Folder | Publication Release |
 |------|-------|--------|---------------|
-| 2026 **C** | Dashti-Gibson N., *et al.* Pan-cancer comparisons of multi-omics data for therapeutic selection. *Under review* | [2026_DashtiGibson_pancancer](2026_DashtiGibson_pancancer) | — |
+| 2026 **C** | Dashti-Gibson N., *et al.* Cross-cancer comparisons of multi-omics data for therapeutic selection. *Under review* | [2026_DashtiGibson_pancancer](2026_DashtiGibson_pancancer) | — |
 | 2026 **L** | Tyc K. M., *et al.* Mutational landscape analysis of patient-derived xenograft models across multiple solid tumors and ancestries. *In preparation* | [2026_Tyc_PDX_WGS_landscape](2026_Tyc_PDX_WGS_landscape) | — |
 
 **L** — Study led by our group  
