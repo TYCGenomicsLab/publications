@@ -1,6 +1,6 @@
 # Copyright (c) VCU 2026, CC BY-NC 4.0, Katarzyna M. Tyc.
 # v0.1.0 2026-04-10
-# If you use this code, please cite: Dashti-Gibson N., et al. Pan-cancer comparisons of multi-omics data for therapeutic selection.
+# If you use this code, please cite: Dashti-Gibson N., et al. Cross-cancer comparisons of multi-omics data for therapeutic selection.
 
 library(dplyr)
 library(stringr)
