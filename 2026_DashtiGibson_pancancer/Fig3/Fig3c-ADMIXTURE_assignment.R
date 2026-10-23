@@ -1,5 +1,5 @@
 # Copyright (c) VCU 2026, CC BY-NC 4.0, Katarzyna M. Tyc.
-# If you use this code, please cite: Dashti-Gibson N., et al. Pan-cancer comparisons of multi-omics data for therapeutic selection.
+# If you use this code, please cite: Dashti-Gibson N., et al. Cross-cancer comparisons of multi-omics data for therapeutic selection.
 
 # Figure 3c / Suppl Table: assign each PDX model to a 1000 Genomes Project (1KGP) superpopulation and population
 # from its ADMIXTURE ancestry proportions.
